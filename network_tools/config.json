@@ -1,0 +1,9 @@
+{
+"server":"69.194.15.38",
+"server_port":9999,
+"local_addr":"0.0.0.0",
+"local_port":9888,
+"password":"onlyencrypt",
+"method":"aes-256-cfb",
+"timeout":600
+}

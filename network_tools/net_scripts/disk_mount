@@ -1,0 +1,2 @@
+sudo mount /dev/sdb1 /opt/data1/
+sudo mount /dev/sdb2 /opt/data2/
